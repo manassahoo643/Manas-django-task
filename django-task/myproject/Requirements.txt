@@ -1,5 +1,4 @@
 django
-freeze
 psycopg2
 djangorestframework
 djangorestframework-simplejwt
